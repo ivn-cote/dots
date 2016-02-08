@@ -1,0 +1,22 @@
+{
+  "__font_face": "SourceCodePro+Powerline+Awesome Regular",
+  "caret_extra_width": 0,
+  "caret_style": "solid",
+  "color_scheme": "Packages/User/SublimeLinter/Solarized (Light) (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "font_size": 12,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "AppleScript",
+    "JSLint",
+    "Vintage"
+  ],
+  "open_files_in_new_window": false,
+  "show_full_path": true,
+  "tab_size": 2,
+  "theme": "Piatto Dark 3.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
